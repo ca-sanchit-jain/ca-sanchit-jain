@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ca-sanchit-jain
+- 👋 Hi, I’m @ca-sanchit-jain pursuing my PhD in Finance from IIM-B.
 - 👀 I’m interested in research related to finance, economoics and marketing. 
 - 🌱 I’m currently learning R and Latex.
 - 💞️ I’m looking to collaborate on interesting research ideas. 
