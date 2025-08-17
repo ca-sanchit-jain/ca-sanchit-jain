@@ -1,5 +1,5 @@
 # Sanchit Jain
-🎓 PhD Candidate (Finance & Accounting), Indian Institute of Management Bangalore  
+🎓 [PhD Candidate (Finance & Accounting), Indian Institute of Management Bangalore](https://www.iimb.ac.in/node/9428)  
 🧾 Chartered Accountant | Finance Educator | Researcher  
 
 
@@ -38,7 +38,7 @@ Draft available on: [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4
 
 ## 🎤 Public Engagement
 
-- Frequent speaker on investment literacy
+- Frequent speaker on financial literacy
 - *Finance ke Funde* – YouTube channel simplifying personal finance [Channel Link](https://www.youtube.com/@FinanceKeFunde)
 - *Decoding PhD* - Youtube channel providing PhD-related content [Channel Link](https://www.youtube.com/@DecodingPhD)
 
@@ -48,7 +48,7 @@ Draft available on: [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4
 
 [LinkedIn](https://www.linkedin.com/in/jainsanchit)
 [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=4748731)
-[Scholar](https://scholar.google.com/citations?user=PTLxJsEAAAAJ)
+[Google Scholar](https://scholar.google.com/citations?user=PTLxJsEAAAAJ)
 
 <!---
 ca-sanchit-jain/ca-sanchit-jain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
